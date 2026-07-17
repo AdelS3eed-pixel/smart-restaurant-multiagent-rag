@@ -13,6 +13,18 @@ st.set_page_config(
     layout="centered"
 )
 
+# ---- Build the vector database on first run ----
+# On a fresh deployment (e.g. Streamlit Cloud), chroma_db/ won't exist yet
+# since it's excluded from git. Build it automatically the first time the
+# app starts, so no manual step is needed after deployment.
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CHROMA_DIR = os.path.join(BASE_DIR, "chroma_db")
+
+if not os.path.exists(CHROMA_DIR) or not os.listdir(CHROMA_DIR):
+    with st.spinner("Setting up the knowledge base for the first time, this may take a minute..."):
+        from rag.ingest import run_ingestion
+        run_ingestion()
+
 # ---- Session state setup ----
 if "memory" not in st.session_state:
     st.session_state.memory = ConversationMemory()
@@ -67,7 +79,7 @@ if user_input:
 
     st.session_state.memory.add_message("assistant", answer)
 
-
+# ---- Sidebar ----
 with st.sidebar:
     st.subheader("Elsada Elafadel")
     st.markdown("Branches: Tahrir, October, Shebin El Kom, Nasr City")
