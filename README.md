@@ -1,5 +1,3 @@
-# smart-restaurant-multiagent-rag
-
 # Elsada Elafadel — Smart Restaurant Assistant
 
 A multi-agent RAG system for a restaurant chain with four branches (Tahrir, October, Shebin El Kom, Nasr City). The assistant answers questions from an internal knowledge base, checks table availability, handles bookings, and remembers context across a conversation — all routed through a single orchestrator built with **LangGraph**.
