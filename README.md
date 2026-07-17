@@ -160,7 +160,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 A quick look at the assistant in action — RAG-based menu answers, booking flow, and conversational memory.
 
