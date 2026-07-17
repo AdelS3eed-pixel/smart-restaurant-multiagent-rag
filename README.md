@@ -157,3 +157,32 @@ pip install -r requirements.txt
 python rag/ingest.py           # one-time: build the vector database
 streamlit run app.py
 ```
+
+---
+
+## 📸 Screenshots
+
+A quick look at the assistant in action — RAG-based menu answers, booking flow, and conversational memory.
+
+<br>
+
+<div align="center">
+
+<img width="801" height="648" alt="Menu / RAG query example" src="https://github.com/user-attachments/assets/521c657f-d399-4266-84ca-5e195bb61928" />
+
+<br><br>
+
+<img width="727" height="655" alt="Table booking example" src="https://github.com/user-attachments/assets/d509feab-d437-4211-b6df-384e0ed0de03" />
+
+<br><br>
+
+<img width="732" height="662" alt="Conversation memory example" src="https://github.com/user-attachments/assets/458a355b-168e-4afb-95c9-5eae5ddaca29" />
+
+</div>
+
+<br>
+
+---
+
+
+
