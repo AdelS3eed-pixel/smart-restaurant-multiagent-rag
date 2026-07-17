@@ -1,0 +1,455 @@
+=== Main Courses ===
+
+Dish name: Grilled Herb Chicken
+Price: 180 EGP
+Description: Grilled (not fried) chicken breast marinated with rosemary and garlic, served with white rice
+Contains: No common allergens
+Vegetarian: No
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Kebab Hella
+Price: 210 EGP
+Description: Grilled lamb kebab cooked over charcoal, served with rice and salad
+Contains: None
+Vegetarian: No
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Grilled Fish with Lemon
+Price: 220 EGP
+Description: Grilled tilapia fish marinated with lemon and garlic, served with rice and sauteed vegetables
+Contains: Fish
+Vegetarian: No
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Royal Vegetable Pasta
+Price: 140 EGP
+Description: Creamy pasta with a mix of seasonal vegetables, no meat at all
+Contains: Dairy, gluten
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Cheese Beef Burger
+Price: 165 EGP
+Description: Grilled beef burger with cheddar cheese and special sauce, served with fries
+Contains: Dairy, gluten
+Vegetarian: No
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Moussaka with Minced Meat
+Price: 155 EGP
+Description: Fried eggplant layered with minced meat and homemade tomato sauce
+Contains: None
+Vegetarian: No
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Lamb Meat Tagine
+Price: 250 EGP
+Description: Lamb pieces slow-cooked with onions and tomatoes in a clay pot
+Contains: None
+Vegetarian: No
+Available in branches: Shebin El Kom only
+
+Dish name: Chicken Breaded Fillet
+Price: 150 EGP
+Description: Crispy fried (not grilled) breaded chicken pieces, served with fries and salad
+Contains: Gluten, eggs
+Vegetarian: No
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Mushroom Risotto
+Price: 145 EGP
+Description: Creamy Italian rice cooked with mushrooms and cheese, no meat at all
+Contains: Dairy
+Vegetarian: Yes
+Available in branches: Tahrir, October
+
+Dish name: Family Mixed Grill
+Price: 380 EGP
+Description: A mix of grilled meats (kebab, kofta, chicken) that serves two to three people, comes with rice and salads
+Contains: None
+Vegetarian: No
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Macaroni Bechamel
+Price: 135 EGP
+Description: Traditional baked macaroni pasta layered with seasoned minced meat and topped with creamy white bechamel sauce, oven-baked until golden
+Contains: Dairy, gluten
+Vegetarian: No
+Available in branches: Tahrir, October, Shebin El Kom
+
+=== Soups ===
+
+Dish name: Lentil Soup
+Price: 45 EGP
+Description: Yellow lentils cooked with cumin and lemon
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Chicken Vermicelli Soup
+Price: 55 EGP
+Description: Homemade chicken broth with thin vermicelli noodles and chicken pieces
+Contains: Gluten
+Vegetarian: No
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Vegetable Soup
+Price: 40 EGP
+Description: Seasonal mixed vegetables slow-cooked, no cream added
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Cream of Mushroom
+Price: 60 EGP
+Description: Rich creamy mushroom soup
+Contains: Dairy
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+=== Hot Beverages ===
+
+Dish name: Black Tea
+Price: 20 EGP
+Description: Traditional black tea
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Turkish Coffee
+Price: 25 EGP
+Description: Authentic Turkish coffee, served plain or sweetened
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Instant Coffee (Nescafe)
+Price: 35 EGP
+Description: Instant coffee with or without milk
+Contains: Dairy (optional)
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Anise Drink
+Price: 20 EGP
+Description: Hot anise (yansoon) drink
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Hot Hibiscus Tea
+Price: 22 EGP
+Description: Traditional hot hibiscus (karkade) tea
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+=== Cold Beverages ===
+
+Dish name: Fresh Mango Juice
+Price: 35 EGP
+Description: Freshly squeezed natural mango juice
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Fresh Orange Juice
+Price: 30 EGP
+Description: Freshly squeezed natural orange juice
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Lemon Mint Juice
+Price: 28 EGP
+Description: Fresh lemon juice with mint
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Soft Drink
+Price: 20 EGP
+Description: Carbonated soft drink (Coca-Cola, Sprite, or Fanta)
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Cold Hibiscus Tea
+Price: 25 EGP
+Description: Traditional cold hibiscus (karkade) tea
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+=== Appetizers ===
+
+Dish name: Caesar Salad
+Price: 85 EGP
+Description: Romaine lettuce, parmesan cheese, croutons, creamy caesar dressing
+Contains: Dairy, gluten
+Vegetarian: No (contains anchovy-based dressing)
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Crispy Fries
+Price: 45 EGP
+Description: Crispy fried potato fries
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Crispy Onion Rings
+Price: 50 EGP
+Description: Breaded and fried onion rings
+Contains: Gluten
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Green Salad
+Price: 40 EGP
+Description: Fresh seasonal vegetables with olive oil and lemon dressing
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Cheese Toast
+Price: 55 EGP
+Description: Toasted bread topped with melted mozzarella cheese
+Contains: Dairy, gluten
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+=== Sauces and Add-ons ===
+
+Dish name: BBQ Sauce
+Price: 10 EGP
+Description: Sweet smoky barbecue sauce
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Ketchup
+Price: 5 EGP
+Description: Tomato ketchup
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Mayonnaise
+Price: 5 EGP
+Description: Creamy mayonnaise
+Contains: Eggs
+Vegetarian: No
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Ranch Sauce
+Price: 12 EGP
+Description: Creamy herb ranch sauce
+Contains: Dairy
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+Dish name: Hot Chili Sauce
+Price: 8 EGP
+Description: Concentrated spicy chili sauce
+Contains: None
+Vegetarian: Yes
+Available in branches: Tahrir, October, Shebin El Kom
+
+=== Main Courses (Nasr City Branch - Healthy) ===
+
+Dish name: Grilled Chicken Breast with Quinoa
+Price: 195 EGP
+Description: Skinless grilled chicken breast served with quinoa and grilled vegetables, high protein low carb meal
+Contains: None
+Vegetarian: No
+Calories: 420
+Available in branches: Nasr City only
+
+Dish name: Herb Grilled Salmon
+Price: 260 EGP
+Description: Grilled salmon marinated with fresh herbs and lemon, rich in omega-3
+Contains: Fish
+Vegetarian: No
+Calories: 380
+Available in branches: Nasr City only
+
+Dish name: Chicken Steak with Grilled Vegetables
+Price: 200 EGP
+Description: Grilled chicken slices with a mix of grilled vegetables (zucchini, bell pepper, squash)
+Contains: None
+Vegetarian: No
+Calories: 350
+Available in branches: Nasr City only
+
+Dish name: Tuna Avocado Salad
+Price: 170 EGP
+Description: Drained tuna with fresh avocado, leafy greens, and lemon olive oil dressing
+Contains: Fish
+Vegetarian: No
+Calories: 320
+Available in branches: Nasr City only
+
+Dish name: Lentil and Vegetable Protein Bowl
+Price: 150 EGP
+Description: Cooked lentils with grilled vegetables and whole grains, a vegetarian high-protein dish
+Contains: None
+Vegetarian: Yes
+Calories: 340
+Available in branches: Nasr City only
+
+Dish name: Whole Wheat Pasta with Vegetables
+Price: 155 EGP
+Description: Whole wheat pasta with sauteed vegetables and olive oil, no cream added
+Contains: Gluten
+Vegetarian: Yes
+Calories: 390
+Available in branches: Nasr City only
+
+Dish name: Grilled Tofu with Asian Vegetables
+Price: 165 EGP
+Description: Grilled tofu cubes with sauteed Asian vegetables and light soy sauce
+Contains: Soy
+Vegetarian: Yes
+Calories: 300
+Available in branches: Nasr City only
+
+Dish name: Grilled Chicken Breasts with Lemon Thyme Sauce
+Price: 190 EGP
+Description: Grilled chicken breasts marinated with fresh thyme and a light lemon sauce
+Contains: None
+Vegetarian: No
+Calories: 360
+Available in branches: Nasr City only
+
+=== Soups (Nasr City Branch - Healthy) ===
+
+Dish name: Healthy Lentil Soup
+Price: 45 EGP
+Description: Yellow lentils with no added fats, a great source of plant-based protein
+Contains: None
+Vegetarian: Yes
+Calories: 150
+Available in branches: Nasr City only
+
+Dish name: Cream-Free Vegetable Soup
+Price: 40 EGP
+Description: Seasonal vegetables cooked in a light broth with no fats or cream
+Contains: None
+Vegetarian: Yes
+Calories: 90
+Available in branches: Nasr City only
+
+Dish name: Quinoa Vegetable Soup
+Price: 50 EGP
+Description: Quinoa cooked with assorted vegetables, rich in fiber
+Contains: None
+Vegetarian: Yes
+Calories: 180
+Available in branches: Nasr City only
+
+=== Beverages (Nasr City Branch - Healthy) ===
+
+Dish name: Spinach Apple Detox Juice
+Price: 45 EGP
+Description: Fresh juice made from spinach, green apple, and cucumber
+Contains: None
+Vegetarian: Yes
+Calories: 90
+Available in branches: Nasr City only
+
+Dish name: Cucumber Mint Juice
+Price: 35 EGP
+Description: Fresh cucumber juice with mint, refreshing and low calorie
+Contains: None
+Vegetarian: Yes
+Calories: 40
+Available in branches: Nasr City only
+
+Dish name: Green Tea
+Price: 25 EGP
+Description: Natural green tea, rich in antioxidants
+Contains: None
+Vegetarian: Yes
+Calories: 5
+Available in branches: Nasr City only
+
+Dish name: Lemon Mint Infused Water
+Price: 20 EGP
+Description: Water infused with fresh lemon and mint
+Contains: None
+Vegetarian: Yes
+Calories: 10
+Available in branches: Nasr City only
+
+Dish name: Banana Strawberry Protein Smoothie
+Price: 55 EGP
+Description: Banana and strawberry smoothie with a plant-based protein source
+Contains: None
+Vegetarian: Yes
+Calories: 220
+Available in branches: Nasr City only
+
+=== Appetizers (Nasr City Branch - Healthy) ===
+
+Dish name: Quinoa Avocado Salad
+Price: 95 EGP
+Description: Quinoa with avocado, cherry tomatoes, and lemon olive oil dressing
+Contains: None
+Vegetarian: Yes
+Calories: 280
+Available in branches: Nasr City only
+
+Dish name: Hummus with Tahini
+Price: 60 EGP
+Description: Mashed chickpeas with tahini and olive oil, served with fresh vegetables
+Contains: Sesame
+Vegetarian: Yes
+Calories: 210
+Available in branches: Nasr City only
+
+Dish name: Spinach Walnut Salad
+Price: 90 EGP
+Description: Fresh spinach with toasted walnuts, feta cheese, and light dressing
+Contains: Dairy, nuts
+Vegetarian: Yes
+Calories: 250
+Available in branches: Nasr City only
+
+Dish name: Salted Boiled Edamame
+Price: 50 EGP
+Description: Boiled green soybeans lightly salted
+Contains: Soy
+Vegetarian: Yes
+Calories: 120
+Available in branches: Nasr City only
+
+Dish name: Green Salad with Lemon
+Price: 40 EGP
+Description: Seasonal leafy greens with a light lemon and olive oil dressing
+Contains: None
+Vegetarian: Yes
+Calories: 60
+Available in branches: Nasr City only
+
+=== Add-ons (Nasr City Branch - Healthy) ===
+
+Dish name: Light Tahini Sauce
+Price: 10 EGP
+Description: Light tahini sauce with no added fats
+Contains: Sesame
+Vegetarian: Yes
+Available in branches: Nasr City only
+
+Dish name: Avocado Sauce
+Price: 15 EGP
+Description: Fresh creamy avocado sauce
+Contains: None
+Vegetarian: Yes
+Available in branches: Nasr City only
+
+Dish name: Olive Oil and Lemon Dressing
+Price: 8 EGP
+Description: A mix of extra virgin olive oil and fresh lemon
+Contains: None
+Vegetarian: Yes
+Available in branches: Nasr City only
